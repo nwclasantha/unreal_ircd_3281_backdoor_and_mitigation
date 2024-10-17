@@ -25,6 +25,10 @@ The backdoor allowed attackers to connect to the affected server and execute she
 The backdoor in UnrealIRCd 3.2.8.1 was simple in nature and allowed any connected user to send a specific string of data to the IRC server, causing it to execute arbitrary commands on the host system. This made any server running the affected version of UnrealIRCd vulnerable to remote attacks.
 
 ### **Exploit Using MSF**:
+
+![image](https://github.com/user-attachments/assets/dcd00db1-a125-4af6-88fd-08d5aae995c2)
+![image](https://github.com/user-attachments/assets/87f8857d-6168-4b8f-9ebe-2bc98934861d)
+
 ```bash
 msfconsole
 msf> use exploit/unix/irc/unreal_ircd_3281_backdoor
