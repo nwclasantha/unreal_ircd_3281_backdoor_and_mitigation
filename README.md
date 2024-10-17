@@ -1,3 +1,6 @@
+NOTE:
+It is a practical resource for security teams to conduct thorough assessments and continuously enhance cybersecurity posture. The use of this application is restricted to authorized personnel and is intended only for internal evaluations. Deploying it in unauthorized environments is strictly prohibited.
+
 ![ZXF1t7efxd](https://github.com/user-attachments/assets/6dcbba92-d724-4fcb-aa51-dd6eee4dc67e)
 
 The **UnrealIRCd 3.2.8.1 Backdoor** is associated with **CVE-2010-2075**, a well-known vulnerability that was introduced when the source code of the UnrealIRCd software was compromised. Below is detailed information about this backdoor and its associated CVE.
