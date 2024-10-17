@@ -43,8 +43,10 @@ root@metasploitable:/root# ls
 ls
 Desktop  reset_logs.sh  vnc.log
 ```
+![7buA7iUQBLKbr6y6jZpe9S](https://github.com/user-attachments/assets/50c5bf1f-f741-4981-8bf0-7f0f314321b8)
 
 ### **Exploit Using Only Python**:
+
 ```bash
 #!/usr/bin/python3
 import argparse
