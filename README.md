@@ -230,6 +230,9 @@ If you are running UnrealIRCd and want to check whether your server was affected
    If the backdoor is present, this command will return a string associated with the backdoor.
 
 ### **Mitigation**:
+
+![Wf6xpwysMv](https://github.com/user-attachments/assets/9ae7adad-c252-4dee-9056-fc2270ee1df8)
+
 - **Upgrade UnrealIRCd**: The backdoor was fixed in later versions, so upgrade to a version newer than 3.2.8.1.
 - **Reinstall the Operating System**: If your system was compromised, it’s strongly recommended to reinstall the operating system or restore from a known clean backup.
 - **Run Security Tools**: Tools like `rkhunter`, `chkrootkit`, and `ClamAV` can be used to scan for malware and other backdoors, but the primary fix is to ensure that the compromised version is no longer in use.
